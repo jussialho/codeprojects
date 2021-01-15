@@ -1,5 +1,4 @@
 # codeprojects
-Coding projects
 
 Code projects exercises classified by code language.
 
